@@ -1,3 +1,9 @@
-# youbook
+# OpenBook
 
-[ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
+
+## Links
+
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook)
+
+
